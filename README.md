@@ -54,19 +54,19 @@ This course includes 18 lessons with 13 code examples:
 
 This repository contains 13 code examples that correspond to the course lessons:
 
-1. **Tensor Quantization** - Basic quantize/dequantize operations
-2. **Computing Scale and Zero Point** - Determining quantization parameters
-3. **Symmetric vs. Asymmetric Modes** - Implementing both quantization modes
-4. **Per-Tensor Quantization** - Basic granularity implementation
-5. **Per-Channel Quantization** - Channel-wise implementation
-6. **Per-Group Quantization** - Group-wise implementation
-7. **Weights & Activations Quantization** - Full inference-ready quantization
-8. **8-Bit Quantizer Implementation** - Complete 8-bit solution
-9. **Quantized Layer Replacement** - Integration with PyTorch
-10. **General-Purpose Model Quantizer** - Quantizing any PyTorch model
-11. **Hugging Face Integration** - Loading and saving quantized weights
-12. **2-Bit Weight Packing** - Ultra-low bit compression implementation
-13. **2-Bit Weight Unpacking** - Efficient decompression implementation
+1. [**Tensor Quantization**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/03.%20Quantize%20and%20De-quantize%20a%20Tensor) - Basic quantize/dequantize operations
+2. [**Computing Scale and Zero Point**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/04.%20Get%20the%20Scale%20and%20Zero%20Point) - Determining quantization parameters
+3. [**Symmetric vs. Asymmetric Modes**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/05.%20Symmetric%20vs%20Asymmetric%20Mode) - Implementing both quantization modes
+4. [**Per-Tensor Quantization**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/06.%20Finer%20Granularity%20for%20more%20Precision) - Basic granularity implementation
+5. [**Per-Channel Quantization**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/07.%20Per%20Channel%20Quantization) - Channel-wise implementation
+6. [**Per-Group Quantization**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/08.%20Per%20Group%20Quantization) - Group-wise implementation
+7. [**Weights & Activations Quantization**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/09.%20Quantizing%20Weights%20%26%20Activations%20for%20Inference) - Full inference-ready quantization
+8. [**8-Bit Quantizer Implementation**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/10.%20Custom%20Build%20an%208-Bit%20Quantizer) - Complete 8-bit solution
+9. [**Quantized Layer Replacement**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/11.%20Replace%20PyTorch%20layers%20with%20Quantized%20Layers) - Integration with PyTorch
+10. [**General-Purpose Model Quantizer**][(](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/12.%20Quantize%20any%20Open%20Source%20PyTorch%20Model)) - Quantizing any PyTorch model
+11. [**Hugging Face Integration**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/13.%20Load%20your%20Quantized%20Weights%20from%20HuggingFace%20Hub) - Loading and saving quantized weights
+12. [**2-Bit Weight Packing**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/15.%20Packing%202-bit%20Weights) - Ultra-low bit compression implementation
+13. [**2-Bit Weight Unpacking**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/16.%20Unpacking%202-Bit%20Weights) - Efficient decompression implementation
 
 ## 🚀 Getting Started
 
