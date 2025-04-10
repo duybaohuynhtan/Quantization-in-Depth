@@ -63,7 +63,7 @@ This repository contains 13 code examples that correspond to the course lessons:
 7. [**Weights & Activations Quantization**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/09.%20Quantizing%20Weights%20%26%20Activations%20for%20Inference) - Full inference-ready quantization
 8. [**8-Bit Quantizer Implementation**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/10.%20Custom%20Build%20an%208-Bit%20Quantizer) - Complete 8-bit solution
 9. [**Quantized Layer Replacement**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/11.%20Replace%20PyTorch%20layers%20with%20Quantized%20Layers) - Integration with PyTorch
-10. [**General-Purpose Model Quantizer**][(](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/12.%20Quantize%20any%20Open%20Source%20PyTorch%20Model)) - Quantizing any PyTorch model
+10. [**General-Purpose Model Quantizer**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/12.%20Quantize%20any%20Open%20Source%20PyTorch%20Model) - Quantizing any PyTorch model
 11. [**Hugging Face Integration**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/13.%20Load%20your%20Quantized%20Weights%20from%20HuggingFace%20Hub) - Loading and saving quantized weights
 12. [**2-Bit Weight Packing**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/15.%20Packing%202-bit%20Weights) - Ultra-low bit compression implementation
 13. [**2-Bit Weight Unpacking**](https://github.com/duybaohuynhtan/Quantization-in-Depth/tree/master/16.%20Unpacking%202-Bit%20Weights) - Efficient decompression implementation
