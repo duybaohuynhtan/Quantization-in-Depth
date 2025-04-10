@@ -94,10 +94,10 @@ Navigate to the `notebooks/` directory and open the desired example.
 ## 📋 Requirements
 
 - Python 3.9.18
-- Accelerate==0.26.1
-- Seaborn==0.13.1
-- Torch==2.1.1
-- Transformers==4.35.0
+- Accelerate 0.26.1
+- Seaborn 0.13.1
+- Torch 2.1.1
+- Transformers 4.35.0
 
 ## 🔗 Additional Resources
 
