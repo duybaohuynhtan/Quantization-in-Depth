@@ -111,4 +111,4 @@ Navigate to the `notebooks/` directory and open the desired example.
 
 ## 🙏 Acknowledgments
 
-Special thanks to DeepLearning.AI and Hugging Face for creating this educational content.
+Special thanks to **DeepLearning.AI** and **Hugging Face** for creating such comprehensive learning materials.
